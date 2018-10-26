@@ -23,5 +23,6 @@ Er zijn links aanwezig voor de Facebook pagina.
 * De look van de site is outdated en geeft niet direct weer dat het een game shop is.
 * Meer social media intergratie (bv twitter).
 * Meer interactieve elementen
+* Facebook chat integratie
 
 ---
